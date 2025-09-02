@@ -1,0 +1,26 @@
+🚀 Phase 1 - Python Beginner Projects
+
+Welcome to my **Phase 1** of learning Python programming!  
+This repository contains small but powerful projects I created while practicing the basics.  
+Each project is inside its own file/folder with clean and commented code.  
+
+---
+
+## 📂 Projects
+
+1. **Calculator (with memory)**  
+   - Supports: add, subtract, multiply, divide, power.  
+   - Has a memory feature (`m`) to reuse the last result.  
+
+2. **To-Do List**  
+   - Add, remove, and display tasks.  
+   - Simple console-based task manager.  
+
+3. **Users API + JSON**  
+   - Fetches users from an API.  
+   - Saves, updates, deletes, and edits data inside `users.json`.  
+
+4. **Complaint Detector**  
+   - Analyzes reviews and detects complaints.  
+   - Saves all reviews to `reviews.json`.  
+   - Filters complaints into `complaints.json` with statistics.  
